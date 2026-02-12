@@ -1,5 +1,5 @@
 package Strings;
-public class BalanceString {
+public class minDelBalanceString {
     public static void main(String[] args) {
        int ans=minimumDeletions("aababbab");
         System.out.println(ans);
